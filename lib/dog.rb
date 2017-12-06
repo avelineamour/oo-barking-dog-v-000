@@ -18,4 +18,4 @@ class Dog
   end
 end
 
-Miko = Dog.new
+miko = Dog.new
