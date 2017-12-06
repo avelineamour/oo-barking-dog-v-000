@@ -17,3 +17,5 @@ class Dog
     puts "Woof!"
   end
 end
+
+Dog.name = "Miko"
