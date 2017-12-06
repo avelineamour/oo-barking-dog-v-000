@@ -1,10 +1,6 @@
 # Your code goes here!
 
 class Dog
-  def initialize(name)
-    @name = name
-  end
-
   def name=(name)
     @name = name
   end
@@ -18,4 +14,7 @@ class Dog
   end
 end
 
-Dog.name = "Miko"
+Miko = Dog.new
+Miko.name = "Miko"
+Miko.name
+Miko.bark
