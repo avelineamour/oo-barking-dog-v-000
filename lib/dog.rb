@@ -9,5 +9,5 @@ class Dog
   end
 end
 
-Dog.new("Miko")
+Dog.new = ("Miko")
 Miko.bark
