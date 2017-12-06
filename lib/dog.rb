@@ -17,5 +17,3 @@ class Dog
     puts "Woof!"
   end
 end
-
-miko = Dog.new
