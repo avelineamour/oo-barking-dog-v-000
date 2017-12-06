@@ -8,3 +8,6 @@ class Dog
     puts "Woof!"
   end
 end
+
+Dog.new("Miko")
+Miko.bark
